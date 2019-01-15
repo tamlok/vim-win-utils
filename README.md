@@ -7,3 +7,5 @@ This repository contains some utils used by Vim on Windows.
 - [Exuberant Ctags 5.8](http://ctags.sourceforge.net/)
 - [GNU Global 6.6.2](http://adoxa.altervista.org/global/)
 - [Cppcheck 1.84](http://cppcheck.sourceforge.net/)
+- [Python 2.7 x86](https://www.python.org/downloads/release/python-2715/)
+- [Python 3.7 x86](https://www.python.org/downloads/release/python-372/)
